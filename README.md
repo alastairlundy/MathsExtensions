@@ -11,8 +11,8 @@ This can be added to any .NET Standard 2.0, .NET Standard 2.1, or .NET 8 compati
 
 ### Compatibility| IO Extensions Version series | .NET Targets supported
   
-  ||--------------------------|-------------------------------|| 1.1.0                      | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 |
-  | < 1.1.0                     | .NET Standard 2.1, and .NET 8 |
+  ||--------------------------|-------------------------------|
+  | 5.0                  | .NET 8 |
   
 ## License
 This project is licensed under the MIT license.
