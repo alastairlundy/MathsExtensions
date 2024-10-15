@@ -11,7 +11,7 @@ This can be added to any .NET Standard 2.0, .NET Standard 2.1, or .NET 8 compati
 
 ### Compatibility
 
-| IO Extensions Version series | .NET Targets supported
+| Extensions Version series | .NET Targets supported
   |--------------------------|-------------------------------|
   | 5.0                  | .NET 8 |
   
